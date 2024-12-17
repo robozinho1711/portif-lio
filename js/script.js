@@ -8,6 +8,6 @@ function toggleMode(){
         img.setAttribute("src", "./img/avatar2.jpg")
     }
     else{
-        img.setAttribute("src", "./img/avatar1,jfif")
+        img.setAttribute("src", "./img/avatar1.jpeg")
     }
 }
